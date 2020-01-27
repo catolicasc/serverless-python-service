@@ -1,0 +1,9 @@
+.serverless
+node_modules
+npm-debug.log
+*.lock*
+*.erro*
+
+functions/package-lock.json
+
+package-lock.json
